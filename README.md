@@ -1,0 +1,2 @@
+# aws.projelerim
+my- asprojeckt
